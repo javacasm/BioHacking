@@ -6,5 +6,8 @@
 
 [Construcción de un espacio BioHacker](http://biopunkalert.tumblr.com/post/159757757741/building-a-b-biohacker-b-space)
 
+[MiniPCR](http://www.minipcr.com/) (multiplicador de ADN)
 
-Hacking agricultura  http://makezine.com/2017/04/27/community-creating-solution-farmbot-technology/
+[Laboratorio en un maletin](http://2016.igem.org/Team:Valencia_UPV/Hardware)
+
+CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-solution-farmbot-technology/
