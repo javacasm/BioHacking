@@ -16,6 +16,8 @@
 
 [Extract your ADN](https://www.instructables.com/id/5-minute-DNA-Extraction-in-a-Shot-Glass/)
 
+[Bacterias bioluminiscentes]
+
 ### Equipos
 
 CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-solution-farmbot-technology/
@@ -24,10 +26,12 @@ CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-
 
 ![Centrifugadora](https://i2.wp.com/makezine.com/wp-content/uploads/2017/03/10-LidOpen.jpg?resize=620%2C930)
 
-[MiniPCR](http://www.minipcr.com/) (multiplicador de ADN)
+[MiniPCR](http://www.minipcr.com/) (multiplicador de ADN, Termociclador)
 
 [Laboratorio en un maletin](http://2016.igem.org/Team:Valencia_UPV/Hardware)
 
 ## Comunidades
 
 [BioHacking Spaces](https://makezine.com/2017/04/05/biohacking-spaces/)
+
+[Hackteria](http://www.hackteria.org/)
