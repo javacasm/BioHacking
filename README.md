@@ -14,6 +14,8 @@
 
 [Open Insulin](https://makezine.com/2017/03/16/open-insulin-project-aims-disrupt-diabetes/)
 
+[Extract your ADN](https://www.instructables.com/id/5-minute-DNA-Extraction-in-a-Shot-Glass/)
+
 ### Equipos
 
 CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-solution-farmbot-technology/
