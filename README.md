@@ -18,6 +18,8 @@
 
 [Bacterias bioluminiscentes]
 
+[Impresora 3d de Agarosa]
+
 ### Equipos
 
 CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-solution-farmbot-technology/
