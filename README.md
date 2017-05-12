@@ -34,6 +34,8 @@ CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-
 
 [Idea para dispensador](http://yujiangtham.com/2014/05/25/build-your-very-own-drink-mixing-robot-part-1/)
 
+Dispensador de líquidos sobre A4idraw 
+
 ## Comunidades
 
 [BioHacking Spaces](https://makezine.com/2017/04/05/biohacking-spaces/)
