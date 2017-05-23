@@ -34,7 +34,7 @@ CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-
 
 [Idea para dispensador](http://yujiangtham.com/2014/05/25/build-your-very-own-drink-mixing-robot-part-1/)
 
-Dispensador de líquidos sobre A4idraw 
+Dispensador de líquidos sobre A4idraw
 
 ## Comunidades
 
@@ -46,5 +46,24 @@ Dispensador de líquidos sobre A4idraw
 
 @OpenLabMadrid
 @DIYBIOBCN ‏
+@OpenBioPrinting
 
 https://twitter.com/hashtag/BioFab2017?src=hash
+
+
+
+# imprimiendo piel sintetica
+
+http://www.elmundo.es/salud/2017/01/23/5885f8a1ca4741b3118b45ac.html
+
+https://www.youtube.com/watch?v=aSxl9p7_Fts
+imprimiendo cartilago
+http://journal.frontiersin.org/article/10.3389/fsurg.2015.00039/full
+
+
+
+¿Está apple trabajando en la medida de glucosa
+
+https://www.enriquedans.com/2017/05/es-la-glucemia-el-proximo-indicador-a-monitorizar.html?
+
+http://www.biotecnoencuentro.com/
