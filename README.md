@@ -31,7 +31,7 @@ https://www.enriquedans.com/2017/05/es-la-glucemia-el-proximo-indicador-a-monito
 
 ### [FoldScope](https://www.foldscope.com/what-we-do/)
 
-![FoldScope](https://ksr-ugc.imgix.net/assets/014/594/835/bf01be89b73fd981b2bbfd06781f8c8a_original.png?w=680&fit=max&v=1479630584&auto=format&lossless=true&s=2e1f63adc15e729677c4a72e49f737f5)
+![FoldScope](./images/bf01be89b73fd981b2bbfd06781f8c8a_original.png)
 
 ![FoldScope montado](https://2nznub4x5d61ra4q12fyu67t-wpengine.netdna-ssl.com/wp-content/uploads/2014/03/Foldscope.jpg)
 
@@ -71,6 +71,7 @@ https://www.enriquedans.com/2017/05/es-la-glucemia-el-proximo-indicador-a-monito
 [MiniPCR](http://www.minipcr.com/) (multiplicador de ADN, Termociclador)
 
 [Laboratorio en un maletin](http://2016.igem.org/Team:Valencia_UPV/Hardware)
+
 
 
 ## Recursos
