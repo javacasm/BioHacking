@@ -36,6 +36,12 @@ https://www.enriquedans.com/2017/05/es-la-glucemia-el-proximo-indicador-a-monito
 ![FoldScope montado](https://2nznub4x5d61ra4q12fyu67t-wpengine.netdna-ssl.com/wp-content/uploads/2014/03/Foldscope.jpg)
 
 
+### [Herramientas de Laboratorio imprimibles](https://www.thingiverse.com/javacasm/collections/laboratorio)
+
+![pipeta](https://thingiverse-production-new.s3.amazonaws.com/renders/d5/d1/47/5a/44/c087340014c3f3ad74d61a1006712669_preview_featured.JPG)
+
+![material biolab](./images/mateial_biolab.jpg)
+
 ## Comunidades
 
 ### [GaudiLabs](http://www.gaudi.ch/GaudiLabs/)
