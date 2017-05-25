@@ -78,7 +78,7 @@ https://www.enriquedans.com/2017/05/es-la-glucemia-el-proximo-indicador-a-monito
 
 [Laboratorio en un maletin](http://2016.igem.org/Team:Valencia_UPV/Hardware)
 
-
+[Open science hardware](http://openhardware.science/2016/09/29/gosh-thats-handy-open-science-hardware/)
 
 ## Recursos
 
