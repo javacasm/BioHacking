@@ -25,13 +25,25 @@ CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-
 
 ![Centrifugadora](https://i2.wp.com/makezine.com/wp-content/uploads/2017/03/10-LidOpen.jpg?resize=620%2C930)
 
+[Todo laboratorio necesita una Centrifugadora](https://biohackingitm.wordpress.com/2017/06/10/todo-laboratorio-debe-tener-una-centrifuga)
+
+[Microscopio DIY](https://biohackingitm.wordpress.com/2017/06/10/microscopios-diy-como-estrategia-educativa-de-impacto-social/)
+
 [MiniPCR](http://www.minipcr.com/) (multiplicador de ADN, Termociclador)
 
 [Laboratorio en un maletin](http://2016.igem.org/Team:Valencia_UPV/Hardware)
 
+[Cámara de electroforesis](https://biohackingitm.wordpress.com/2017/05/27/biohackers-y-su-laboratorio/)
+
+[Incubadora](https://biohackingitm.wordpress.com/2017/06/13/y-donde-cuidaremos-nuestros-bichos/)
+
+[Bioreactor](https://biohackingitm.wordpress.com/2017/06/13/nuestro-biorreactor-diy/)
+
 [Idea para dispensador](http://yujiangtham.com/2014/05/25/build-your-very-own-drink-mixing-robot-part-1/)
 
 Dispensador de líquidos sobre A4idraw
+
+
 
 ## Comunidades
 
