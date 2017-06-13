@@ -1,6 +1,8 @@
 # Bio Hacking
 
 
+# El reto no era hacer un Lab, el reto es como hacer que cada Escuela tenga un Lab
+
 ## Interés por la genética
 
 [23&me](https://www.23andme.com/)
