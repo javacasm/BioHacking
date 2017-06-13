@@ -49,21 +49,11 @@ https://www.enriquedans.com/2017/05/es-la-glucemia-el-proximo-indicador-a-monito
 ### [GaudiLabs](http://www.gaudi.ch/GaudiLabs/)
 
 
-![miniPCR](http://www.gaudi.ch/GaudiLabs/wp-content/uploads/OpenPCR-1024x809.jpg)
-
-
-![electroforesis](http://www.gaudi.ch/GaudiLabs/wp-content/uploads/GelBoxSupply-1024x828.jpg)
-
-
-[Equipos](http://www.gaudi.ch/GaudiLabs/?page_id=328)
-
 [9 proyectos de BioHacking](http://makezine.com/2017/03/23/biohacking-projects/)
 
 
 ### [Hackteria](https://www.hackteria.org/category/projects/)
 
-
-[DIY MicroScope](https://www.hackteria.org/workshops/diy-microsopy-by-tez/)
 
 
 
