@@ -35,9 +35,13 @@ CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-
 
 [Cámara de electroforesis](https://biohackingitm.wordpress.com/2017/05/27/biohackers-y-su-laboratorio/)
 
+[Cámara vertical de electroforesis](https://twitter.com/BioHackingITM/status/868487591909347329)
+
 [Incubadora](https://biohackingitm.wordpress.com/2017/06/13/y-donde-cuidaremos-nuestros-bichos/)
 
 [Bioreactor](https://biohackingitm.wordpress.com/2017/06/13/nuestro-biorreactor-diy/)
+
+[Agitador](https://twitter.com/BioHackingITM/status/873681530845089792)
 
 [Idea para dispensador](http://yujiangtham.com/2014/05/25/build-your-very-own-drink-mixing-robot-part-1/)
 
