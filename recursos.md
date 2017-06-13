@@ -29,6 +29,8 @@ CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-
 
 [Microscopio DIY](https://biohackingitm.wordpress.com/2017/06/10/microscopios-diy-como-estrategia-educativa-de-impacto-social/)
 
+[DIY MicroScope](https://www.hackteria.org/workshops/diy-microsopy-by-tez/)
+
 [MiniPCR](http://www.minipcr.com/) (multiplicador de ADN, Termociclador)
 
 [Laboratorio en un maletin](http://2016.igem.org/Team:Valencia_UPV/Hardware)
@@ -42,6 +44,16 @@ CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-
 [Bioreactor](https://biohackingitm.wordpress.com/2017/06/13/nuestro-biorreactor-diy/)
 
 [Agitador](https://twitter.com/BioHackingITM/status/873681530845089792)
+
+
+![miniPCR](http://www.gaudi.ch/GaudiLabs/wp-content/uploads/OpenPCR-1024x809.jpg)
+
+
+![electroforesis](http://www.gaudi.ch/GaudiLabs/wp-content/uploads/GelBoxSupply-1024x828.jpg)
+
+
+[Equipos](http://www.gaudi.ch/GaudiLabs/?page_id=328)
+
 
 [Congelador](https://www.banggood.com/12V-6A-DIY-Electronic-Semiconductor-Refrigerator-Radiator-Cooling-Equipment-p-1074404.html)
 
@@ -62,7 +74,7 @@ Dispensador de líquidos sobre A4idraw
 
 https://twitter.com/hashtag/BioFab2017?src=hash
 
-
+[GaudiLabs](http://www.gaudi.ch/GaudiLabs/)
 
 # imprimiendo piel sintetica
 
