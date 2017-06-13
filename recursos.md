@@ -43,6 +43,10 @@ CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-
 
 [Agitador](https://twitter.com/BioHackingITM/status/873681530845089792)
 
+[Congelador](https://www.banggood.com/12V-6A-DIY-Electronic-Semiconductor-Refrigerator-Radiator-Cooling-Equipment-p-1074404.html)
+
+![Congelador](https://img.banggood.com/thumb/water/oaupload/banggood/images/E0/04/bd7aba84-f2c3-4058-82fb-dd6a07d826ad.jpg)
+
 [Idea para dispensador](http://yujiangtham.com/2014/05/25/build-your-very-own-drink-mixing-robot-part-1/)
 
 Dispensador de líquidos sobre A4idraw
