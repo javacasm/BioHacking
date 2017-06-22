@@ -1,66 +1,28 @@
-# Bio Hacking
+# BioHacking
+
+[Charla TED: ¿Cómo convertirse en un BioHacker](https://www.youtube.com/watch?v=_kc0IFavUes&feature=youtu.be)
+
+[Beginner Guide to BioHacking](https://blog.bulletproof.com/beginners-guide-to-biohacking-101/)
+
+[Construcción de un espacio BioHacker](http://biopunkalert.tumblr.com/post/159757757741/building-a-b-biohacker-b-space)
 
 
-# El reto no era hacer un Lab, el reto es como hacer que cada Escuela tenga un Lab
 
-## Interés por la genética
+## Proyectos
 
-[23&me](https://www.23andme.com/)
-
-![23andme](http://i1089.photobucket.com/albums/i349/Michael_Convente/IMG_1399_small.jpg)
-
-## Interés por la glucosa
-
-![lentilla glucosa](http://cdn.elimpulso.com/media/lentillas.jpg)
-
-[¿Está apple trabajando en la medida de glucosa?](
-https://www.enriquedans.com/2017/05/es-la-glucemia-el-proximo-indicador-a-monitorizar.html)
+[9 proyectos de BioHacking](http://makezine.com/2017/03/23/biohacking-projects/)
 
 [Open Insulin](https://makezine.com/2017/03/16/open-insulin-project-aims-disrupt-diabetes/)
 
 [Extract your ADN](https://www.instructables.com/id/5-minute-DNA-Extraction-in-a-Shot-Glass/)
 
+[Bacterias bioluminiscentes]
 
-## ¿Qué quiero conseguir?
+[Impresora 3d de Agarosa]
 
+### Equipos
 
-## ¿Qué se entiende por Bio Hacking?
-
-## ¿Qué hace falta?
-
-
-## Proyectos
-
-### [FoldScope](https://www.foldscope.com/what-we-do/)
-
-![FoldScope](./images/bf01be89b73fd981b2bbfd06781f8c8a_original.png)
-
-![FoldScope montado](https://2nznub4x5d61ra4q12fyu67t-wpengine.netdna-ssl.com/wp-content/uploads/2014/03/Foldscope.jpg)
-
-
-### [Herramientas de Laboratorio imprimibles](https://www.thingiverse.com/javacasm/collections/laboratorio)
-
-![pipeta](https://thingiverse-production-new.s3.amazonaws.com/renders/d5/d1/47/5a/44/c087340014c3f3ad74d61a1006712669_preview_featured.JPG)
-
-![material biolab](./images/mateial_biolab.jpg)
-
-## Comunidades
-
-### [GaudiLabs](http://www.gaudi.ch/GaudiLabs/)
-
-
-[9 proyectos de BioHacking](http://makezine.com/2017/03/23/biohacking-projects/)
-
-
-### [Hackteria](https://www.hackteria.org/category/projects/)
-
-
-
-
-## Equipos
-
-
-[CNC para Hacking agricultura ](http://makezine.com/2017/04/27/community-creating-solution-farmbot-technology/)
+CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-solution-farmbot-technology/
 
 [Centrifugadora sencilla](http://makezine.com/projects/3d-printed-centrifuge/)
 
@@ -70,15 +32,23 @@ https://www.enriquedans.com/2017/05/es-la-glucemia-el-proximo-indicador-a-monito
 
 [Laboratorio en un maletin](http://2016.igem.org/Team:Valencia_UPV/Hardware)
 
-[Open science hardware](http://openhardware.science/2016/09/29/gosh-thats-handy-open-science-hardware/)
+[Idea para dispensador](http://yujiangtham.com/2014/05/25/build-your-very-own-drink-mixing-robot-part-1/)
 
-## Recursos
+Dispensador de líquidos sobre A4idraw 
 
-[BioTecnoEncuentro](http://www.biotecnoencuentro.com/informacion-2/)
+## Comunidades
 
-### Redes sociales
+[BioHacking Spaces](https://makezine.com/2017/04/05/biohacking-spaces/)
+
+[Hackteria](http://www.hackteria.org/)
+
+## Redes sociales
 
 @OpenLabMadrid
-@DIYBIOBCN ‏
-@OpenBioPrinting
-@BioHackingITM
+
+@DIYBIOBCN 
+
+http://openbioprinting.org/. @openbioprinting
+
+https://twitter.com/hashtag/BioFab2017?src=hash
+
