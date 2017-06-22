@@ -11,6 +11,9 @@
 
 ![Centrifugadora](https://thingiverse-production-new.s3.amazonaws.com/renders/e9/9f/a2/06/55/pubCAM04361_preview_featured.jpg)
 
+[Centrifugadora sencilla](http://makezine.com/projects/3d-printed-centrifuge/)
+
+![Centrifugadora](https://i2.wp.com/makezine.com/wp-content/uploads/2017/03/10-LidOpen.jpg?resize=620%2C930)
 
 ### Modelo de agitador magnético con calentador (laser)
 
