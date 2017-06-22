@@ -24,9 +24,9 @@
 
 CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-solution-farmbot-technology/
 
-[Centrifugadora sencilla](http://makezine.com/projects/3d-printed-centrifuge/)
 
-![Centrifugadora](https://i2.wp.com/makezine.com/wp-content/uploads/2017/03/10-LidOpen.jpg?resize=620%2C930)
+
+[Centrifugadora](./Centrifugadora.md)
 
 [MiniPCR](http://www.minipcr.com/) (multiplicador de ADN, Termociclador)
 
@@ -34,7 +34,7 @@ CNC para Hacking agricultura  http://makezine.com/2017/04/27/community-creating-
 
 [Idea para dispensador](http://yujiangtham.com/2014/05/25/build-your-very-own-drink-mixing-robot-part-1/)
 
-Dispensador de líquidos sobre A4idraw 
+Dispensador de líquidos sobre A4idraw
 
 ## Comunidades
 
@@ -46,9 +46,11 @@ Dispensador de líquidos sobre A4idraw
 
 @OpenLabMadrid
 
-@DIYBIOBCN 
+@DIYBIOBCN
+
+@labs_cesar
+@Ibercivis
 
 http://openbioprinting.org/. @openbioprinting
 
 https://twitter.com/hashtag/BioFab2017?src=hash
-
